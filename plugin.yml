@@ -1,0 +1,6 @@
+name: Magic
+version: 0.1
+main: de.maltesermailo.magic.Magic
+commands:
+   magic:
+    description: Magic main command
